@@ -1,2 +1,4 @@
 # csod-2019-sladyn98
-This is your CSOD repository
+:sunny: Crio Summer of Doing Report.
+
+`Built an end to end REST server in java Spring Boot`
